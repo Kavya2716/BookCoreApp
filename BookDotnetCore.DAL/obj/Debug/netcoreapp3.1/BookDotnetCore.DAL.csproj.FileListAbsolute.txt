@@ -1,0 +1,16 @@
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.DAL\bin\Debug\netcoreapp3.1\BookDotnetCore.DAL.deps.json
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.DAL\bin\Debug\netcoreapp3.1\BookDotnetCore.DAL.runtimeconfig.json
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.DAL\bin\Debug\netcoreapp3.1\BookDotnetCore.DAL.runtimeconfig.dev.json
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.DAL\bin\Debug\netcoreapp3.1\BookDotnetCore.DAL.dll
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.DAL\bin\Debug\netcoreapp3.1\BookDotnetCore.DAL.pdb
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.DAL\bin\Debug\netcoreapp3.1\BookDotnetCore.Entity.dll
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.DAL\bin\Debug\netcoreapp3.1\BookDotnetCore.Entity.pdb
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.DAL\obj\Debug\netcoreapp3.1\BookDotnetCore.DAL.csproj.AssemblyReference.cache
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.DAL\obj\Debug\netcoreapp3.1\BookDotnetCore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.DAL\obj\Debug\netcoreapp3.1\BookDotnetCore.DAL.AssemblyInfoInputs.cache
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.DAL\obj\Debug\netcoreapp3.1\BookDotnetCore.DAL.AssemblyInfo.cs
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.DAL\obj\Debug\netcoreapp3.1\BookDotnetCore.DAL.csproj.CoreCompileInputs.cache
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.DAL\obj\Debug\netcoreapp3.1\BookDotnetCore.DAL.csproj.CopyComplete
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.DAL\obj\Debug\netcoreapp3.1\BookDotnetCore.DAL.dll
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.DAL\obj\Debug\netcoreapp3.1\BookDotnetCore.DAL.pdb
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.DAL\obj\Debug\netcoreapp3.1\BookDotnetCore.DAL.genruntimeconfig.cache
