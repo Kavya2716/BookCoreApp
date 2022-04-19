@@ -1,0 +1,15 @@
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.BAL\bin\Debug\netcoreapp3.1\BookDotnetCore.BAL.deps.json
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.BAL\bin\Debug\netcoreapp3.1\BookDotnetCore.BAL.dll
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.BAL\bin\Debug\netcoreapp3.1\BookDotnetCore.BAL.pdb
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.BAL\obj\Debug\netcoreapp3.1\BookDotnetCore.BAL.csproj.AssemblyReference.cache
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.BAL\obj\Debug\netcoreapp3.1\BookDotnetCore.BAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.BAL\obj\Debug\netcoreapp3.1\BookDotnetCore.BAL.AssemblyInfoInputs.cache
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.BAL\obj\Debug\netcoreapp3.1\BookDotnetCore.BAL.AssemblyInfo.cs
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.BAL\obj\Debug\netcoreapp3.1\BookDotnetCore.BAL.csproj.CoreCompileInputs.cache
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.BAL\obj\Debug\netcoreapp3.1\BookDotnetCore.BAL.dll
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.BAL\obj\Debug\netcoreapp3.1\BookDotnetCore.BAL.pdb
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.BAL\bin\Debug\netcoreapp3.1\BookDotnetCore.DAL.dll
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.BAL\bin\Debug\netcoreapp3.1\BookDotnetCore.Entity.dll
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.BAL\bin\Debug\netcoreapp3.1\BookDotnetCore.DAL.pdb
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.BAL\bin\Debug\netcoreapp3.1\BookDotnetCore.Entity.pdb
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.BAL\obj\Debug\netcoreapp3.1\BookDotnetCore.BAL.csproj.CopyComplete
