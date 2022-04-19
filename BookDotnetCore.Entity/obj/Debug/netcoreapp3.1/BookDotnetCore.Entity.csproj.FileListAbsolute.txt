@@ -1,0 +1,10 @@
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.Entity\bin\Debug\netcoreapp3.1\BookDotnetCore.Entity.deps.json
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.Entity\bin\Debug\netcoreapp3.1\BookDotnetCore.Entity.dll
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.Entity\bin\Debug\netcoreapp3.1\BookDotnetCore.Entity.pdb
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.Entity\obj\Debug\netcoreapp3.1\BookDotnetCore.Entity.csproj.AssemblyReference.cache
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.Entity\obj\Debug\netcoreapp3.1\BookDotnetCore.Entity.GeneratedMSBuildEditorConfig.editorconfig
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.Entity\obj\Debug\netcoreapp3.1\BookDotnetCore.Entity.AssemblyInfoInputs.cache
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.Entity\obj\Debug\netcoreapp3.1\BookDotnetCore.Entity.AssemblyInfo.cs
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.Entity\obj\Debug\netcoreapp3.1\BookDotnetCore.Entity.csproj.CoreCompileInputs.cache
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.Entity\obj\Debug\netcoreapp3.1\BookDotnetCore.Entity.dll
+F:\NC4\BookDotNetCoreApp\BookDotnetCore.Entity\obj\Debug\netcoreapp3.1\BookDotnetCore.Entity.pdb
